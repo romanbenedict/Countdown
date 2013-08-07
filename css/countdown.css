@@ -1,0 +1,28 @@
+body
+{
+background-image:url('/countdown/img/echeveria.gif');
+}
+#topheader{
+font-family: 'Arbutus Slab', serif; 
+text-align:center;
+font-size:55px;
+padding-bottom:50px;
+padding-top:20px;
+}
+.daterender{
+font-size:45px;
+}
+#timefrom{
+font-variant:small-caps;
+font-size:25px;
+}
+#progressbar{
+padding-top:35px;
+padding-bottom:35px;
+}
+.progresslabel{
+text-align:center;
+font-family: 'Kristi', cursive;
+font-size:30px;
+font-variant:small-caps;
+}
